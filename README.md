@@ -19,3 +19,4 @@ As I have just started learning I do not have an experience in this sphere.
 Currently I am studying at Urgench State University
 # English:
 My English level is somewhere between Intermediate and Upper-intermediate.
+https://thomeasy.github.io/rsschool-cv/cv
