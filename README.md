@@ -14,7 +14,7 @@ My name is Shikhnazar Zaribbaev, I am 20 years old. I work aas an administrator 
 - Pyrhon
 - JavaScript
 # Working experience:
-As I have just started learning I d not have an experience in this sphere.
+As I have just started learning I do not have an experience in this sphere.
 # Education:
 Currently I am studying at Urgench State University
 # English:
